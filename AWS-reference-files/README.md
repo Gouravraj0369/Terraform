@@ -1,1 +1,1 @@
-# terraform-tutorial-reference-files
+# terraform-aws-resources-reference-files
